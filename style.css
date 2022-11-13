@@ -1,0 +1,35 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #start, #number_of_objects
+{
+font-size: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: aliceblue;
+    background-position: center;
+}
+
+h1{
+    font-size: 30px;
+    width: 100%;
+}
+
+h2{
+    font-size: 24px;
+}
+
+canvas{
+    border: 5px outset #9803fc;
+    margin-top: 100px;
+}
